@@ -2,6 +2,8 @@
 # 
 # R Studio - Download = https://rstudio.com/products/rstudio/download/
 #
+# Como Baixar e Instalar o Sistema R = http://www.clickgeo.com.br/download-instalacao-sistema-r/
+#
 # Microsoft R Open versão 3.5.1 - download = https://mran.microsoft.com/download
 #
 # Installing Microsoft R Open 3.5.1 [Archived Documentation] = https://mran.microsoft.com/releases/3.5.1
@@ -33,4 +35,6 @@
 # Treinamento em Programação no Ambiente R  = https://gent-esalq.github.io/cursoR/cursoR_pdf.pdf
 #
 # R Programming for Data Science =   https://www.cs.upc.edu/~robert/teaching/estadistica/rprogramming.pdf
+#
+# Conhecendo Comandos Básicos do Sistema Estatístico R = http://www.clickgeo.com.br/comandos-basicos-do-sistema-estatistico-r/
 #
