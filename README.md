@@ -1,5 +1,11 @@
-# R Studio
+# R - Instalação
 # 
+# R Studio - Download = https://rstudio.com/products/rstudio/download/
+#
+# Microsoft R Open versão 3.5.1 - download = https://mran.microsoft.com/download
+#
+# Installing Microsoft R Open 3.5.1 [Archived Documentation] = https://mran.microsoft.com/releases/3.5.1
+#
 # R - Apostilas
 #
 # Introdução ao uso do programa R  = https://cran.r-project.org/doc/contrib/Landeiro-Introducao.pdf
