@@ -1,4 +1,4 @@
-# R
+# R Studio
 # 
 # R - Apostilas
 #
